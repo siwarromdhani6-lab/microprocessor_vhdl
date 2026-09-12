@@ -1,0 +1,15 @@
+# Backup files
+*.bak
+*~
+
+# Simulation outputs
+*.vcd
+*.ghw
+*.o
+work/
+*.wlf
+transcript
+
+# OS junk
+.DS_Store
+Thumbs.db
